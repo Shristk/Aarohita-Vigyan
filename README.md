@@ -6,15 +6,16 @@ It features advanced scheduling, priority management, and a beautiful glass morp
 
 ---
 
-## �️ UI Screenshots
+##  UI Screenshots
 
-Add screenshots of your application's UI below:
+<div align="center">
+<img src="https://github.com/Shristk/Aarohita-Vigyan/blob/9160602671a845875710690f6429fde1173ca0b4/Ui%20images/dashboard.png" alt="Dashboard Screenshot" width="800" position="center"/>
+<img src="https://github.com/Shristk/Aarohita-Vigyan/blob/9160602671a845875710690f6429fde1173ca0b4/Ui%20images/tasklist.png" alt="Dashboard Screenshot" width="800" position="center"/>
+</div>
 
-![Dashboard Screenshot](Ui images/Screenshot 2025-09-09 232355.png)
-![Task List Screenshot](Ui images/Screenshot 2025-09-09 231629.png)
 
 
-## �🚀 Features
+## 🚀 Features
 
 - ✅ Create, edit, and delete tasks with rich descriptions  
 - ✅ Schedule tasks with due dates and priority levels (Low, Medium, High, Urgent)  
@@ -118,31 +119,6 @@ npm start
 
 ---
 
-## 🚀 Deployment
-
-Recommended platform: **Render (Free hosting)**
-
-#### Deployment Steps
-
-1. Push code to GitHub  
-2. Create an account at [render.com](https://render.com)  
-3. Deploy backend as Web Service  
-4. Deploy frontend as Static Site  
-5. Set environment variables:
-
-**Backend**
-- `SECRET_KEY`  
-- `DATABASE_URL`  
-- `CORS_ALLOWED_ORIGINS`  
-
-**Frontend**
-- `REACT_APP_API_URL`  
-
-Alternative platforms:  
-- Vercel + Railway  
-- Netlify + Heroku  
-
----
 
 ## 🤝 Contributing
 
@@ -187,9 +163,9 @@ MIT License – See LICENSE file for details
 
 ## ✉️ Contact
 
-- GitHub: [@yourusername](https://github.com/yourusername)  
-- Email: your.email@example.com  
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- GitHub: [ShristK](https://github.com/Shristk)  
+- Email: shristkumarjr@gmail.com
+- LinkedIn: [linkedin.com/in/Shrist Kumar](https://www.linkedin.com/in/shrist-kumar-b9845a284/)  
 
 ---
 
