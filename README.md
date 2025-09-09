@@ -6,7 +6,15 @@ It features advanced scheduling, priority management, and a beautiful glass morp
 
 ---
 
-## 🚀 Features
+## �️ UI Screenshots
+
+Add screenshots of your application's UI below:
+
+![Dashboard Screenshot](Ui images/Screenshot 2025-09-09 232355.png)
+![Task List Screenshot](Ui images/Screenshot 2025-09-09 231629.png)
+
+
+## �🚀 Features
 
 - ✅ Create, edit, and delete tasks with rich descriptions  
 - ✅ Schedule tasks with due dates and priority levels (Low, Medium, High, Urgent)  
